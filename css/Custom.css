@@ -15,9 +15,6 @@
 	background: #162850;
 	color: white;
 }
-#a{
-	background-image: url("imgs/background.jpg");
-}
 .stylish-input-group1 .input-group-addon{
     background: #fbfbfb !important; 
 }
@@ -28,4 +25,11 @@
 }
 .colortextwhite{
 	color: white;
+}
+.colorfooter{
+	background-color: #162850;
+}
+.colortextfooter{
+	color: #b0b0b0;
+	font: size: 10px;
 }
